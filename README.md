@@ -5,9 +5,9 @@ GNSS • RF Signal Processing • SDR
 Python (GNU Radio, NumPy, SciPy)
 
 ## About
-I am an engineering undergraduate at the Technical 
-University of Denmark with a technical focus on GNSS, 
-RF signal processing, SDR, and Python-based modelling 
+I am an engineering undergraduate at the Technical    
+University of Denmark with a technical focus on GNSS,    
+RF signal processing, SDR, and Python-based modelling    
 and analysis. 
 
 ## Areas of interest
@@ -18,7 +18,7 @@ and analysis.
 - SDR and GNU Radio
 
 ## Current focus
-Building a portfolio of technical projects and 
+Building a portfolio of technical projects and    
 experiments in signal processing and GNSS-related work. 
 
 ## Contact
